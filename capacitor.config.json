@@ -1,0 +1,8 @@
+{
+  "appId": "com.usuario.velocigps",
+  "appName": "VelociGPS",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  }
+}
